@@ -1,0 +1,20 @@
+{
+  "vm-name": "",
+  "template" : "",
+  "datacenter": "",
+  "datastore": "",
+  "resource-pool": "",
+  "folder": "",
+  "power-on": true,
+  "network-card":
+  {
+    "update" : [
+      {
+        "nic-hdw-name": "",
+        "new-network-label": "",
+        "new-mac-address": "",
+        "connected": true
+      }
+    ]
+  }
+}
