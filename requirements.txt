@@ -1,0 +1,4 @@
+progressbar2==3.18.1
+pyVmomi>=6.5.0.2017.5-1
+requests>=2.18.1
+argparse>=1.1

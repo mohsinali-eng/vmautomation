@@ -1,0 +1,50 @@
+{
+  "vm-name": "",
+  "datastore": "",
+  "datacenter": "",
+  "resource-pool": "",
+  "folder": "",
+  "power-on" : false,
+  "memory-MB": 4096,
+  "num-CPUs": 1,
+  "guest-OS-id": "otherGuest64",
+  "version": "vmx-08",
+  "hard-disk": [
+    {
+      "disk-label": "",
+      "capacity-KB": 200000
+    },
+    {
+      "disk-label": "sdb",
+      "capacity-KB": 200000
+    }
+  ],
+  "cd-drive": [
+    {
+      "iso-datastore": "",
+      "iso-filename": "",
+      "Connected": true
+    },
+    {
+      "iso-datastore": "",
+      "iso-filename": "",
+      "Connected": true
+    }
+  ],
+  "network-card": [
+    {
+      "network-label": "",
+      "mac-address-type": "manual",
+      "mac-address": "02:50:56:12:34:15",
+      "summary": "VSphere Network",
+      "connected" : true
+    },
+    {
+      "network-label": "",
+      "mac-address-type": "assigned",
+      "mac-address": null,
+      "summary": "VSphere Network",
+      "connected" : true
+    }
+  ]
+}
